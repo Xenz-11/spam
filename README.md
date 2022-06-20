@@ -8,7 +8,7 @@ pkg install git
 ```
 > RUN SCRIPT
 ```python
-git clone https://github.com/Xenz-11/sepam
+git clone https://github.com/Xenz-11/spam
 cd sepam
 python sepam.py
 ```
